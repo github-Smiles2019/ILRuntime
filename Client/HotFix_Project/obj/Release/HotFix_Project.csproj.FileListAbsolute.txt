@@ -1,0 +1,12 @@
+C:\Home\workspace\classILRuntime\Assets\StreamingAssets\HotFix_Project.dll
+C:\Home\workspace\classILRuntime\Assets\StreamingAssets\HotFix_Project.pdb
+C:\Home\workspace\classILRuntime\Assets\3rd\ILRuntime\1.6.6\Demo\HotFix_Project~\obj\Release\HotFix_Project.csprojAssemblyReference.cache
+C:\Home\workspace\classILRuntime\Assets\3rd\ILRuntime\1.6.6\Demo\HotFix_Project~\obj\Release\HotFix_Project.csproj.CoreCompileInputs.cache
+C:\Home\workspace\classILRuntime\Assets\3rd\ILRuntime\1.6.6\Demo\HotFix_Project~\obj\Release\HotFix_Project.dll
+C:\Home\workspace\classILRuntime\Assets\3rd\ILRuntime\1.6.6\Demo\HotFix_Project~\obj\Release\HotFix_Project.pdb
+C:\Home\workspace\classILRuntime\Assets\StreamingAssets\HotFix\HotFix_Project.dll
+C:\Home\workspace\classILRuntime\Assets\StreamingAssets\HotFix\HotFix_Project.pdb
+C:\Home\workspace\classILRuntime\HotFix_Project\obj\Release\HotFix_Project.csprojAssemblyReference.cache
+C:\Home\workspace\classILRuntime\HotFix_Project\obj\Release\HotFix_Project.csproj.CoreCompileInputs.cache
+C:\Home\workspace\classILRuntime\HotFix_Project\obj\Release\HotFix_Project.dll
+C:\Home\workspace\classILRuntime\HotFix_Project\obj\Release\HotFix_Project.pdb
